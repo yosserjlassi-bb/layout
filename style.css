@@ -1,0 +1,77 @@
+ @import url("https://fonts.googleapis.com/css2?family=Bitcount+Prop+Single:wght@100..900&family=Mozilla+Headline:wght@200..700&family=Press+Start+2P&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+  body {
+    margin: 0;
+}
+* {
+  font-family: "Roboto Mono", monospace;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    color: white;
+    text-align: center;
+}
+
+header {
+    background-color:rgb(12, 12, 84);
+    padding: 20px;
+    font-size: 24px;
+}
+
+.img1 {
+    background-color: #4c93de;
+    padding: 40px;
+    font-size: 24px;
+}
+main{
+    width: 100%;
+}
+.container {
+    display: flex;
+    
+}
+
+aside {
+    background-color: rgba(101, 15, 18, 0.927);
+    width: 40%;
+    padding: 20px 0;
+}
+.main-box {
+    background-color: #1f3552;
+    padding: 40px;
+    margin-left: 0px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.banner {
+    background-color: goldenrod;
+    padding: 40px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.ad-img-container {
+    display: flex;
+    
+}
+
+.AD {
+    background-color: seagreen;
+    padding: 40px;
+    width: 50%;
+}
+
+.img2 {
+    background-color: lightseagreen;
+    padding: 40px;
+    color: brown;
+    font-weight: bold;
+    width: 50%;
+}
+
+footer {
+    background-color: steelblue;
+    padding: 20px;
+    color: red;
+}
